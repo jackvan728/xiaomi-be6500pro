@@ -1,5 +1,6 @@
 # 小米Xiaomi路由器 BE6500 Pro 解锁SSH和科学上网教程
 本教程一共分为两个视频，第一个是解锁SSH，第二个是安装ShellCrash科学上网。在小米原来的固件上安装科学上网软件，不影响路由器原有的功能，并且支持全屋科学上网。
+尽量在Windows系统上操作，MacOS上操作有问题。
 
 ## 小米路由器 BE6500 Pro 解锁SSH教程
 视频教程：▶ https://youtu.be/OqTVuJC-TIo
